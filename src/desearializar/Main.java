@@ -1,4 +1,4 @@
-package desearilizar;
+package desearializar;
 
 import crearSerializable.Persona;
 
@@ -15,6 +15,7 @@ public class Main {
 
         // para comprobar que ha sido un éxito
         System.out.println("NOMBRE = "+personaDeserliazada.getNOMBRE());
-
+        System.out.println("EDAD = "+personaDeserliazada.getEdad());
+        System.out.println("debe dar null = "+personaDeserliazada.getNOMBRE_MADRE()); //este atributo no se comparte ya que está marcado como transient
     }
 }

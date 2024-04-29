@@ -38,4 +38,7 @@ public class Persona implements Serializable { // se necesita implementar esta i
         this.edad = edad;
     }
 
+    public String getNOMBRE_MADRE() {
+        return NOMBRE_MADRE;
+    }
 }
