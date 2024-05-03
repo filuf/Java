@@ -6,8 +6,18 @@ public class Main {
     public static void main(String[] args) {
 
         //creamos nuestro Comparator en el que definimos el criterio de comparación
-        Comparator<Productos> comparaPorPreciosUsandoReferencia = Comparator.comparing(Productos::getPrecio);
+
+        //forma antigua
+        Comparator<Productos> comparaUsandoClasesAnonimas = new Comparator<Productos>() {
+            @Override
+            public int compare(Productos o1, Productos o2) {
+                return o1.getPrecio().compareTo(o2.getPrecio());
+            }
+        };
+
+        //formas funcionales
         Comparator<Productos> comparaPorPreciosUsandoLambda = (p1,p2) -> p1.getPrecio().compareTo(p2.getPrecio());
+        Comparator<Productos> comparaPorPreciosUsandoReferencia = Comparator.comparing(Productos::getPrecio);
 
         List<Productos> listaProductos = new ArrayList<>(List.of(
                 new Productos("Cacahuetes", 5.99),
