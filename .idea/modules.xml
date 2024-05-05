@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AprendiendoFueraDeClase/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" filepath="$PROJECT_DIR$/AprendiendoFueraDeClase/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendiendoFueraDeClase/comparators/comparators.iml" filepath="$PROJECT_DIR$/AprendiendoFueraDeClase/comparators/comparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaFueraClaseGIt.iml" filepath="$PROJECT_DIR$/.idea/javaFueraClaseGIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendiendoFueraDeClase/mapYFlatMap/mapYFlatMap.iml" filepath="$PROJECT_DIR$/AprendiendoFueraDeClase/mapYFlatMap/mapYFlatMap.iml" />
+    </modules>
+  </component>
+</project>
