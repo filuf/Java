@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AprendiendoFueraDeClase.iml" filepath="$PROJECT_DIR$/.idea/AprendiendoFueraDeClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" filepath="$PROJECT_DIR$/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparators/comparators.iml" filepath="$PROJECT_DIR$/comparators/comparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericos/genericos.iml" filepath="$PROJECT_DIR$/genericos/genericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapYFlatMap/mapYFlatMap.iml" filepath="$PROJECT_DIR$/mapYFlatMap/mapYFlatMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statistic/statistic.iml" filepath="$PROJECT_DIR$/statistic/statistic.iml" />
+    </modules>
+  </component>
+</project>
