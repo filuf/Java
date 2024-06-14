@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" filepath="$PROJECT_DIR$/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparators/comparators.iml" filepath="$PROJECT_DIR$/comparators/comparators.iml" />
       <module fileurl="file://$PROJECT_DIR$/genericos/genericos.iml" filepath="$PROJECT_DIR$/genericos/genericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laClaseMap/laClaseMap.iml" filepath="$PROJECT_DIR$/laClaseMap/laClaseMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapYFlatMap/mapYFlatMap.iml" filepath="$PROJECT_DIR$/mapYFlatMap/mapYFlatMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronBuilder/patronBuilder.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronBuilder/patronBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" />
       <module fileurl="file://$PROJECT_DIR$/reduce/reduce.iml" filepath="$PROJECT_DIR$/reduce/reduce.iml" />
     </modules>
   </component>
