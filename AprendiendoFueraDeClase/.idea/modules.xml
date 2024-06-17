@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronBuilder/patronBuilder.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronBuilder/patronBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" />
       <module fileurl="file://$PROJECT_DIR$/reduce/reduce.iml" filepath="$PROJECT_DIR$/reduce/reduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util.function/util.function.iml" filepath="$PROJECT_DIR$/util.function/util.function.iml" />
     </modules>
   </component>
 </project>
