@@ -5,11 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AprendiendoFueraDeClase.iml" filepath="$PROJECT_DIR$/.idea/AprendiendoFueraDeClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" filepath="$PROJECT_DIR$/aprendiendoSerializacionYDeserializacion/aprendiendoSerializacionYDeserializacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparators/comparators.iml" filepath="$PROJECT_DIR$/comparators/comparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estructurasDeDatos/estructurasDeDatos.iml" filepath="$PROJECT_DIR$/estructurasDeDatos/estructurasDeDatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/genericos/genericos.iml" filepath="$PROJECT_DIR$/genericos/genericos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/laClaseMap/laClaseMap.iml" filepath="$PROJECT_DIR$/laClaseMap/laClaseMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpEnJava17/get/get.iml" filepath="$PROJECT_DIR$/httpEnJava17/get/get.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpEnJava17/httpEnJava17.iml" filepath="$PROJECT_DIR$/httpEnJava17/httpEnJava17.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapYFlatMap/mapYFlatMap.iml" filepath="$PROJECT_DIR$/mapYFlatMap/mapYFlatMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronBuilder/patronBuilder.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronBuilder/patronBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpEnJava17/post/post.iml" filepath="$PROJECT_DIR$/httpEnJava17/post/post.iml" />
       <module fileurl="file://$PROJECT_DIR$/reduce/reduce.iml" filepath="$PROJECT_DIR$/reduce/reduce.iml" />
       <module fileurl="file://$PROJECT_DIR$/util.function/util.function.iml" filepath="$PROJECT_DIR$/util.function/util.function.iml" />
     </modules>
