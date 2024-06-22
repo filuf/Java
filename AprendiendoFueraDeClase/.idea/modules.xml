@@ -16,7 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" filepath="$PROJECT_DIR$/patronesDeDisenio/patronesDeDisenio.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpEnJava17/post/post.iml" filepath="$PROJECT_DIR$/httpEnJava17/post/post.iml" />
       <module fileurl="file://$PROJECT_DIR$/paradigmaFuncional/reduce/reduce.iml" filepath="$PROJECT_DIR$/paradigmaFuncional/reduce/reduce.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paradigmaFuncional/stat/stat.iml" filepath="$PROJECT_DIR$/paradigmaFuncional/stat/stat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradigmaFuncional/statistic/statistic.iml" filepath="$PROJECT_DIR$/paradigmaFuncional/statistic/statistic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradigmaFuncional/takeWhileYDropWhile/takeWhileYDropWhile.iml" filepath="$PROJECT_DIR$/paradigmaFuncional/takeWhileYDropWhile/takeWhileYDropWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/paradigmaFuncional/util.function/util.function.iml" filepath="$PROJECT_DIR$/paradigmaFuncional/util.function/util.function.iml" />
     </modules>
   </component>
